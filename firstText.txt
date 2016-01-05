@@ -5,4 +5,5 @@ public static void main(String[] arg){
 }
 
 
-//我在这里做的是跟新的操作。
+private void function(){
+}
