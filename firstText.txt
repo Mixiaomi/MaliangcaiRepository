@@ -3,6 +3,3 @@ hello world!
 public static void main(String[] arg){
 	Ststem.out.print("hihihihihihhi");
 }
-
-
-//我在这里做的是跟新的操作。
