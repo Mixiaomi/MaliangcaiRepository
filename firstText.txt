@@ -41,6 +41,15 @@ persion.setAge(58);
 //end
 
 
+//start
+
+someting was add and firstText.txt file was modfiy;
+
+OK . finish;
+
+//end
+
+
 
 
 
