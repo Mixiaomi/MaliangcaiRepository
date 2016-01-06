@@ -1,5 +1,20 @@
-hello world!
+public class MainClass{
 
-public static void main(String[] arg){
-	Ststem.out.print("hihihihihihhi");
+private String name;
+private String address;
+private int age;
+private String sex;
+
+
+public void setName(String name){
+this.name = name;
+
 }
+
+public String getName(){
+return name;
+}	
+
+
+}
+
