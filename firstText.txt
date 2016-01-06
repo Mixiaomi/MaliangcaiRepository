@@ -1,4 +1,4 @@
-public class MainClass{
+public class Persion{
 
 private String name;
 private String address;
@@ -27,6 +27,21 @@ public void setAge(int age){
 
 
 //这里是我加的一句注释，表示我已经修改了本地的文件。。
+
+
+// EX;new a persion and setNanme and setAge
+
+example :
+
+Persion persion = new Persion();
+
+perison.setNmae("Obama");
+persion.setAge(58);
+
+//end
+
+
+
 
 
 
