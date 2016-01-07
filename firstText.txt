@@ -24,7 +24,7 @@ public String getAddress(){
   return address;
 }
 
-<<<<<<< HEAD
+
 public String getAge(){
 	return age;
 }
