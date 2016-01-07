@@ -4,6 +4,7 @@ private String name;
 private String address;
 private int age;
 private String sex;
+private int IDCard;
 
 
 public void setName(String name){
@@ -15,7 +16,15 @@ public String getName(){
 return name;
 }	
 
+public void SetAddress(String address){
+  this.address = address;
+}
 
+public String getAddress(){
+  return address;
+}
+
+<<<<<<< HEAD
 public String getAge(){
 	return age;
 }
@@ -88,5 +97,29 @@ hello world!;
 maliangcai123@gmail.com
 
 I am  maliancai;//fixed bugs;
+
+
+public String  getSex(){
+String sexString = null;
+switch(sex){
+
+  case 0:
+  sexString = "未知"；
+  break;
+  
+  case 1:
+  sexString = "男"；
+  break;
+  case 2:
+  sexString = "女"：
+  break;
+  
+  
 }
+
+}
+
+}
+
+
 
